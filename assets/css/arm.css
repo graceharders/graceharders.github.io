@@ -1,0 +1,25 @@
+body{
+    margin: 20px;
+    margin-left:200px;
+    margin-right:200px;
+    background-color:#b0d1fc;
+}
+.title{
+    margin-left:auto;
+    margin-right:auto;
+    font-family:monospace;
+    color: #3879bd;
+}
+.text{
+    line-height: 300%;
+    background-color:white;
+    padding: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    border: 5px solid yellow;
+    border-radius: 10px;
+}
+.frogs img{
+    width:5%;
+}
